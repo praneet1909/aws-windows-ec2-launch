@@ -24,3 +24,11 @@ Step-by-step guide to launching a Windows Server EC2 instance and connecting via
 
 ## Screenshots
 ![Launch](screenshots/launch.png)
+
+## Security Notes
+- Never open 3389 to 0.0.0.0/0
+- Never commit your .pem file (add `*.pem` to .gitignore)
+- Stop or terminate the instance when done to avoid charges
+
+## Cleanup
+Terminate the instance and delete unused volumes and Elastic IPs.

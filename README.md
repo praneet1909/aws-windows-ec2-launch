@@ -23,7 +23,7 @@ Step-by-step guide to launching a Windows Server EC2 instance and connecting via
 9. Connect using the public IP, user `Administrator`, and the decrypted password
 
 ## Screenshots
-![Launch Instance](screenshots/1-launch-instance.png)
+![Launch Instance](screenshot/1-launch-instance.png)
 
 ## Security Notes
 - Never open 3389 to 0.0.0.0/0

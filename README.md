@@ -31,6 +31,7 @@ Step-by-step guide to launching a Windows Server EC2 instance and connecting via
 ![Runnig Instance Page](screenshot/6-runnig-instance.png)
 ![Connection Method Page](screenshot/7-connection-method.png)
 ![Password Decrypt Page](screenshot/8-decrypt-pass.png)
+![Runnig Windows Page](screenshot/9-windows-ec2.jpeg)
 
 
 ## Security Notes

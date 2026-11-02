@@ -29,6 +29,7 @@ Step-by-step guide to launching a Windows Server EC2 instance and connecting via
 ![Networking Page](screenshot/4-networking.png)
 ![Storage Config Page](screenshot/5-storage-config.png)
 ![Runnig Instance Page](screenshot/6-running-instance.png)
+![Connection Method Page](screenshot/7-connection-method.png)
 
 ## Security Notes
 - Never open 3389 to 0.0.0.0/0

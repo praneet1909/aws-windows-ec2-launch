@@ -24,6 +24,7 @@ Step-by-step guide to launching a Windows Server EC2 instance and connecting via
 
 ## Screenshots
 1)Instance Dashboard
+
 ![Launch Instance](screenshot/1-launch-instance.png)
 ![AMI Page](screenshot/2-AMI.png)
 ![Instance Type](screenshot/3-Instance-type.png)
